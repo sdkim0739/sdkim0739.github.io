@@ -32,13 +32,13 @@ So far, the design has been under wraps, so I don&amp;rsquo;t have any images ye
     </item>
     
     <item>
-      <title>UChicago Housing Technology</title>
+      <title>UChicago Housing Technology Summer Work</title>
       <link>https://sdkim0739.github.io/projects/housing-tech/</link>
       <pubDate>Sun, 14 Jun 2020 22:12:16 -0600</pubDate>
       
       <guid>https://sdkim0739.github.io/projects/housing-tech/</guid>
       <description>While I worked as a Summer Technician at UChicago Housing Technology in 2020, I created an internal metrics visualization page powered by Go to display our logs.
-I wish I had code or images to link to, but unfortunately, all the work is housed internally and can&amp;rsquo;t be shared. However, I used the go-echarts plugin to make the foundation, which you can find !</description>
+I wish I had code or images to link to, but unfortunately, all the work is housed internally and can&amp;rsquo;t be shared. However, I used the go-echarts plugin to make the foundation, which you can find here!</description>
     </item>
     
     <item>
