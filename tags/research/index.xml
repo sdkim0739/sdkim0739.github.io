@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on stephanie kim</title>
+    <link>https://sdkim0739.github.io/tags/research/</link>
+    <description>Recent content in Research on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 22:11:35 -0600</lastBuildDate><atom:link href="https://sdkim0739.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tamagotchi Robots</title>
+      <link>https://sdkim0739.github.io/projects/tamagotchi/</link>
+      <pubDate>Wed, 01 Sep 2021 22:11:35 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/tamagotchi/</guid>
+      <description>Since the start of Autumn 2021 quarter, I have been a Research Assistant for the Tamagotchi Robots project in Dr. Sarah Sebo&amp;rsquo;s Human-Robot Interaction Lab.
+Under Dr. Sebo&amp;rsquo;s direction, the motivation behind our research is to determine whether the long-term care of a social companion robot will improve the interpersonal connection between human and robot and improve the likelihood of interaction. For our purposes, we are using the Anki Vector robot (see the little guy below).</description>
+    </item>
+    
+    <item>
+      <title>Meaningful Conversations</title>
+      <link>https://sdkim0739.github.io/projects/meaningful-convos/</link>
+      <pubDate>Tue, 01 Jun 2021 22:11:24 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/meaningful-convos/</guid>
+      <description>NB: While I am currently no longer active on this project, it is still ongoing within our lab and has experienced much progress since the work I&amp;rsquo;ve done below!
+Over the summer of 2021, I was a Research Assistant for the Meaningful Conversations project in the UChicago Human-Robot Interaction (HRI) Lab.
+The central investigation of this project was based around two related inquiries:
+ Can robots be an effective tool for facilitating conversation and connection between two strangers?</description>
+    </item>
+    
+  </channel>
+</rss>

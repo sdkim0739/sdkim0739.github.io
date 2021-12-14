@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project portfolio on stephanie kim</title>
+    <link>https://sdkim0739.github.io/projects/</link>
+    <description>Recent content in project portfolio on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Dec 2021 21:02:31 -0600</lastBuildDate><atom:link href="https://sdkim0739.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UChicago Ethics Bowl Website</title>
+      <link>https://sdkim0739.github.io/projects/ethics-bowl/</link>
+      <pubDate>Thu, 25 Nov 2021 22:12:10 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/ethics-bowl/</guid>
+      <description>As the only CS major amongst our Ethics Bowl crew, I&amp;rsquo;ve been summoned to create our Ethics Bowl team website.
+Below is a sneak peek at the current design:
+Using my own custom HTML/CSS, I&amp;rsquo;m customizing the Dopetrope template from HTML5UP to suit our design needs. The color scheme consists of mainly UChicago brand colors.
+I plan to incorporate more custom JavaScript or React Native to make the landing page more dynamic, e.</description>
+    </item>
+    
+    <item>
+      <title>Underwater Augmented Reality (AR)</title>
+      <link>https://sdkim0739.github.io/projects/underwater-ar/</link>
+      <pubDate>Mon, 01 Nov 2021 16:40:56 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/underwater-ar/</guid>
+      <description>Alongside my project teammates, I designed and programmed an underwater diving interface in Unity3D as part of a project for my Introduction to Human-Computer Interaction class at UChicago. Below is a demonstration of the project in Unity3D:
+  The goal of this interface was to make a well-designed Augmented Reality interface that adapted to underwater conditions. The interface was divided into two components: a Heads Up Display (HUD) and an arm interface.</description>
+    </item>
+    
+    <item>
+      <title>Tamagotchi Robots</title>
+      <link>https://sdkim0739.github.io/projects/tamagotchi/</link>
+      <pubDate>Wed, 01 Sep 2021 22:11:35 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/tamagotchi/</guid>
+      <description>Since the start of Autumn 2021 quarter, I have been a Research Assistant for the Tamagotchi Robots project in Dr. Sarah Sebo&amp;rsquo;s Human-Robot Interaction Lab.
+Under Dr. Sebo&amp;rsquo;s direction, the motivation behind our research is to determine whether the long-term care of a social companion robot will improve the interpersonal connection between human and robot and improve the likelihood of interaction. For our purposes, we are using the Anki Vector robot (see the little guy below).</description>
+    </item>
+    
+    <item>
+      <title>Particle Filter Localization Maze</title>
+      <link>https://sdkim0739.github.io/projects/particle-filter-maze/</link>
+      <pubDate>Tue, 01 Jun 2021 22:11:47 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/particle-filter-maze/</guid>
+      <description>During the summer of 2021, one of my projects at the UChicago Human-Robot Interaction Lab included assisting Dr. Sarah Sebo in preparing her Introduction to Robotics curriculum for in-person instruction.
+Accordingly, with the help of my labmate Jason Lin, we spearheaded the design and construction of a physical maze for the Particle Filter Localization project, which involves tracking a Turtlebot3 in a maze using a particle filter localization algorithm.
+(The maze ready for some zippy Turtlebotz)</description>
+    </item>
+    
+    <item>
+      <title>Meaningful Conversations</title>
+      <link>https://sdkim0739.github.io/projects/meaningful-convos/</link>
+      <pubDate>Tue, 01 Jun 2021 22:11:24 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/meaningful-convos/</guid>
+      <description>NB: While I am currently no longer active on this project, it is still ongoing within our lab and has experienced much progress since the work I&amp;rsquo;ve done below!
+Over the summer of 2021, I was a Research Assistant for the Meaningful Conversations project in the UChicago Human-Robot Interaction (HRI) Lab.
+The central investigation of this project was based around two related inquiries:
+ Can robots be an effective tool for facilitating conversation and connection between two strangers?</description>
+    </item>
+    
+    <item>
+      <title>AFROTC Detachment 195 Website Redesign</title>
+      <link>https://sdkim0739.github.io/projects/det195-site/</link>
+      <pubDate>Sat, 01 May 2021 22:12:24 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/det195-site/</guid>
+      <description>&amp;hellip;by &amp;ldquo;part of a development team&amp;rdquo;, I mean being one of two cadets who can edit HTML in my detachment. Hehe.
+Anyways!
+Since the website for our detachment is rather outdated and archived, we&amp;rsquo;re dusting it off and hoping to release a fresh website with a new design by fall of 2022.
+So far, the design has been under wraps, so I don&amp;rsquo;t have any images yet! It&amp;rsquo;s going to be a classic HTML5/CSS3 framework, customizing off of an existing template.</description>
+    </item>
+    
+    <item>
+      <title>Q-Learning with Turtlebot3</title>
+      <link>https://sdkim0739.github.io/projects/q-learning/</link>
+      <pubDate>Mon, 01 Mar 2021 22:11:55 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/q-learning/</guid>
+      <description>During the Winter 2021 Introduction to Robotics class, my teammate and I implemented a Q-Learning algorithm in Python3/ROS and trained a Turtlebot3 in Gazebo to match dumbbells to numbered blocks.
+This project involved a mix of robot kinematics, vision recognition, and reinforcement learning in order to train the Turtlebot.
+Check out one of our test runs below:
+To get more details on this project, peep the README on our corresponding GitHub repo!</description>
+    </item>
+    
+    <item>
+      <title>UChicago Housing Technology</title>
+      <link>https://sdkim0739.github.io/projects/housing-tech/</link>
+      <pubDate>Sun, 14 Jun 2020 22:12:16 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/housing-tech/</guid>
+      <description>While I worked as a Summer Technician at UChicago Housing Technology in 2020, I created an internal metrics visualization page powered by Go to display our logs.
+I wish I had code or images to link to, but unfortunately, all the work is housed internally and can&amp;rsquo;t be shared. However, I used the go-echarts plugin to make the foundation, which you can find !</description>
+    </item>
+    
+    <item>
+      <title>EsteemBeam Mobile Application</title>
+      <link>https://sdkim0739.github.io/projects/esteembeam/</link>
+      <pubDate>Thu, 01 Jun 2017 22:12:30 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/esteembeam/</guid>
+      <description>Back when I was a wee high school sophomore in 2017, a couple of my friends and I prototyped an app at the Girls Who Code Summer Immersion Program.
+And EsteemBeam was born!
+EsteemBeam is an iOS/Android app that sends self-help and motivational phrases at the user&amp;rsquo;s specified frequency – daily, weekly, monthly, etc. Our target demographic was young girls, since the app&amp;rsquo;s phrases were formulated with common mental health struggles of adolescent girls in mind, such as body image or peer pressure.</description>
+    </item>
+    
+  </channel>
+</rss>

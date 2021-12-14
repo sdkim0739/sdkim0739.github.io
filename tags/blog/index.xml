@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on stephanie kim</title>
+    <link>https://cteffie.github.io/tags/blog/</link>
+    <description>Recent content in blog on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Dec 2021 16:40:56 -0600</lastBuildDate><atom:link href="https://cteffie.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Underwater Augmented Reality (AR)</title>
+      <link>https://cteffie.github.io/projects/underwater-ar/</link>
+      <pubDate>Sat, 11 Dec 2021 16:40:56 -0600</pubDate>
+      
+      <guid>https://cteffie.github.io/projects/underwater-ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tamagotchi</title>
+      <link>https://cteffie.github.io/projects/tamagotchi/</link>
+      <pubDate>Fri, 10 Dec 2021 22:11:35 -0600</pubDate>
+      
+      <guid>https://cteffie.github.io/projects/tamagotchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaningful Convos</title>
+      <link>https://cteffie.github.io/projects/meaningful-convos/</link>
+      <pubDate>Thu, 09 Dec 2021 22:11:24 -0600</pubDate>
+      
+      <guid>https://cteffie.github.io/projects/meaningful-convos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics Bowl</title>
+      <link>https://cteffie.github.io/projects/ethics-bowl/</link>
+      <pubDate>Wed, 08 Dec 2021 22:12:10 -0600</pubDate>
+      
+      <guid>https://cteffie.github.io/projects/ethics-bowl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle Filter Maze</title>
+      <link>https://cteffie.github.io/projects/particle-filter-maze/</link>
+      <pubDate>Tue, 07 Dec 2021 22:11:47 -0600</pubDate>
+      
+      <guid>https://cteffie.github.io/projects/particle-filter-maze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q Learning</title>
+      <link>https://cteffie.github.io/projects/q-learning/</link>
+      <pubDate>Mon, 06 Dec 2021 22:11:55 -0600</pubDate>
+      
+      <guid>https://cteffie.github.io/projects/q-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Det195 Site</title>
+      <link>https://cteffie.github.io/projects/det195-site/</link>
+      <pubDate>Sat, 04 Dec 2021 22:12:24 -0600</pubDate>
+      
+      <guid>https://cteffie.github.io/projects/det195-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esteembeam</title>
+      <link>https://cteffie.github.io/projects/esteembeam/</link>
+      <pubDate>Fri, 03 Dec 2021 22:12:30 -0600</pubDate>
+      
+      <guid>https://cteffie.github.io/projects/esteembeam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Housing Tech</title>
+      <link>https://cteffie.github.io/projects/housing-tech/</link>
+      <pubDate>Sun, 14 Jun 2020 22:12:16 -0600</pubDate>
+      
+      <guid>https://cteffie.github.io/projects/housing-tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

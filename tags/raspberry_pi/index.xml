@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry_Pi on stephanie kim</title>
+    <link>https://sdkim0739.github.io/tags/raspberry_pi/</link>
+    <description>Recent content in Raspberry_Pi on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 22:11:35 -0600</lastBuildDate><atom:link href="https://sdkim0739.github.io/tags/raspberry_pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tamagotchi Robots</title>
+      <link>https://sdkim0739.github.io/projects/tamagotchi/</link>
+      <pubDate>Wed, 01 Sep 2021 22:11:35 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/tamagotchi/</guid>
+      <description>Since the start of Autumn 2021 quarter, I have been a Research Assistant for the Tamagotchi Robots project in Dr. Sarah Sebo&amp;rsquo;s Human-Robot Interaction Lab.
+Under Dr. Sebo&amp;rsquo;s direction, the motivation behind our research is to determine whether the long-term care of a social companion robot will improve the interpersonal connection between human and robot and improve the likelihood of interaction. For our purposes, we are using the Anki Vector robot (see the little guy below).</description>
+    </item>
+    
+  </channel>
+</rss>

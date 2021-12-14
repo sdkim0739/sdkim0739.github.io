@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity3D on stephanie kim</title>
+    <link>https://sdkim0739.github.io/tags/unity3d/</link>
+    <description>Recent content in Unity3D on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Nov 2021 16:40:56 -0600</lastBuildDate><atom:link href="https://sdkim0739.github.io/tags/unity3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Underwater Augmented Reality (AR)</title>
+      <link>https://sdkim0739.github.io/projects/underwater-ar/</link>
+      <pubDate>Mon, 01 Nov 2021 16:40:56 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/underwater-ar/</guid>
+      <description>Alongside my project teammates, I designed and programmed an underwater diving interface in Unity3D as part of a project for my Introduction to Human-Computer Interaction class at UChicago. Below is a demonstration of the project in Unity3D:
+  The goal of this interface was to make a well-designed Augmented Reality interface that adapted to underwater conditions. The interface was divided into two components: a Heads Up Display (HUD) and an arm interface.</description>
+    </item>
+    
+  </channel>
+</rss>

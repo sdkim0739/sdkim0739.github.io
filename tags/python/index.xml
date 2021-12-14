@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on stephanie kim</title>
+    <link>https://sdkim0739.github.io/tags/python/</link>
+    <description>Recent content in Python on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 22:11:35 -0600</lastBuildDate><atom:link href="https://sdkim0739.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tamagotchi Robots</title>
+      <link>https://sdkim0739.github.io/projects/tamagotchi/</link>
+      <pubDate>Wed, 01 Sep 2021 22:11:35 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/tamagotchi/</guid>
+      <description>Since the start of Autumn 2021 quarter, I have been a Research Assistant for the Tamagotchi Robots project in Dr. Sarah Sebo&amp;rsquo;s Human-Robot Interaction Lab.
+Under Dr. Sebo&amp;rsquo;s direction, the motivation behind our research is to determine whether the long-term care of a social companion robot will improve the interpersonal connection between human and robot and improve the likelihood of interaction. For our purposes, we are using the Anki Vector robot (see the little guy below).</description>
+    </item>
+    
+    <item>
+      <title>Particle Filter Localization Maze</title>
+      <link>https://sdkim0739.github.io/projects/particle-filter-maze/</link>
+      <pubDate>Tue, 01 Jun 2021 22:11:47 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/particle-filter-maze/</guid>
+      <description>During the summer of 2021, one of my projects at the UChicago Human-Robot Interaction Lab included assisting Dr. Sarah Sebo in preparing her Introduction to Robotics curriculum for in-person instruction.
+Accordingly, with the help of my labmate Jason Lin, we spearheaded the design and construction of a physical maze for the Particle Filter Localization project, which involves tracking a Turtlebot3 in a maze using a particle filter localization algorithm.
+(The maze ready for some zippy Turtlebotz)</description>
+    </item>
+    
+    <item>
+      <title>Meaningful Conversations</title>
+      <link>https://sdkim0739.github.io/projects/meaningful-convos/</link>
+      <pubDate>Tue, 01 Jun 2021 22:11:24 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/meaningful-convos/</guid>
+      <description>NB: While I am currently no longer active on this project, it is still ongoing within our lab and has experienced much progress since the work I&amp;rsquo;ve done below!
+Over the summer of 2021, I was a Research Assistant for the Meaningful Conversations project in the UChicago Human-Robot Interaction (HRI) Lab.
+The central investigation of this project was based around two related inquiries:
+ Can robots be an effective tool for facilitating conversation and connection between two strangers?</description>
+    </item>
+    
+    <item>
+      <title>Q-Learning with Turtlebot3</title>
+      <link>https://sdkim0739.github.io/projects/q-learning/</link>
+      <pubDate>Mon, 01 Mar 2021 22:11:55 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/q-learning/</guid>
+      <description>During the Winter 2021 Introduction to Robotics class, my teammate and I implemented a Q-Learning algorithm in Python3/ROS and trained a Turtlebot3 in Gazebo to match dumbbells to numbered blocks.
+This project involved a mix of robot kinematics, vision recognition, and reinforcement learning in order to train the Turtlebot.
+Check out one of our test runs below:
+To get more details on this project, peep the README on our corresponding GitHub repo!</description>
+    </item>
+    
+  </channel>
+</rss>

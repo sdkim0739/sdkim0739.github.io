@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on stephanie kim</title>
+    <link>https://sdkim0739.github.io/tags/web-development/</link>
+    <description>Recent content in Web Development on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Nov 2021 22:12:10 -0600</lastBuildDate><atom:link href="https://sdkim0739.github.io/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UChicago Ethics Bowl Website</title>
+      <link>https://sdkim0739.github.io/projects/ethics-bowl/</link>
+      <pubDate>Thu, 25 Nov 2021 22:12:10 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/ethics-bowl/</guid>
+      <description>As the only CS major amongst our Ethics Bowl crew, I&amp;rsquo;ve been summoned to create our Ethics Bowl team website.
+Below is a sneak peek at the current design:
+Using my own custom HTML/CSS, I&amp;rsquo;m customizing the Dopetrope template from HTML5UP to suit our design needs. The color scheme consists of mainly UChicago brand colors.
+I plan to incorporate more custom JavaScript or React Native to make the landing page more dynamic, e.</description>
+    </item>
+    
+  </channel>
+</rss>

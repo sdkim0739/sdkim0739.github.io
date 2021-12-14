@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhoneGap on stephanie kim</title>
+    <link>https://sdkim0739.github.io/tags/phonegap/</link>
+    <description>Recent content in PhoneGap on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2017 22:12:30 -0600</lastBuildDate><atom:link href="https://sdkim0739.github.io/tags/phonegap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EsteemBeam Mobile Application</title>
+      <link>https://sdkim0739.github.io/projects/esteembeam/</link>
+      <pubDate>Thu, 01 Jun 2017 22:12:30 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/esteembeam/</guid>
+      <description>Back when I was a wee high school sophomore in 2017, a couple of my friends and I prototyped an app at the Girls Who Code Summer Immersion Program.
+And EsteemBeam was born!
+EsteemBeam is an iOS/Android app that sends self-help and motivational phrases at the user&amp;rsquo;s specified frequency – daily, weekly, monthly, etc. Our target demographic was young girls, since the app&amp;rsquo;s phrases were formulated with common mental health struggles of adolescent girls in mind, such as body image or peer pressure.</description>
+    </item>
+    
+  </channel>
+</rss>

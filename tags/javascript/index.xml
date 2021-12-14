@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on stephanie kim</title>
+    <link>https://sdkim0739.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Nov 2021 22:12:10 -0600</lastBuildDate><atom:link href="https://sdkim0739.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UChicago Ethics Bowl Website</title>
+      <link>https://sdkim0739.github.io/projects/ethics-bowl/</link>
+      <pubDate>Thu, 25 Nov 2021 22:12:10 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/ethics-bowl/</guid>
+      <description>As the only CS major amongst our Ethics Bowl crew, I&amp;rsquo;ve been summoned to create our Ethics Bowl team website.
+Below is a sneak peek at the current design:
+Using my own custom HTML/CSS, I&amp;rsquo;m customizing the Dopetrope template from HTML5UP to suit our design needs. The color scheme consists of mainly UChicago brand colors.
+I plan to incorporate more custom JavaScript or React Native to make the landing page more dynamic, e.</description>
+    </item>
+    
+    <item>
+      <title>AFROTC Detachment 195 Website Redesign</title>
+      <link>https://sdkim0739.github.io/projects/det195-site/</link>
+      <pubDate>Sat, 01 May 2021 22:12:24 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/det195-site/</guid>
+      <description>&amp;hellip;by &amp;ldquo;part of a development team&amp;rdquo;, I mean being one of two cadets who can edit HTML in my detachment. Hehe.
+Anyways!
+Since the website for our detachment is rather outdated and archived, we&amp;rsquo;re dusting it off and hoping to release a fresh website with a new design by fall of 2022.
+So far, the design has been under wraps, so I don&amp;rsquo;t have any images yet! It&amp;rsquo;s going to be a classic HTML5/CSS3 framework, customizing off of an existing template.</description>
+    </item>
+    
+    <item>
+      <title>EsteemBeam Mobile Application</title>
+      <link>https://sdkim0739.github.io/projects/esteembeam/</link>
+      <pubDate>Thu, 01 Jun 2017 22:12:30 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/esteembeam/</guid>
+      <description>Back when I was a wee high school sophomore in 2017, a couple of my friends and I prototyped an app at the Girls Who Code Summer Immersion Program.
+And EsteemBeam was born!
+EsteemBeam is an iOS/Android app that sends self-help and motivational phrases at the user&amp;rsquo;s specified frequency – daily, weekly, monthly, etc. Our target demographic was young girls, since the app&amp;rsquo;s phrases were formulated with common mental health struggles of adolescent girls in mind, such as body image or peer pressure.</description>
+    </item>
+    
+  </channel>
+</rss>

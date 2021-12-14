@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web_Development on stephanie kim</title>
+    <link>https://sdkim0739.github.io/tags/web_development/</link>
+    <description>Recent content in Web_Development on stephanie kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 May 2021 22:12:24 -0600</lastBuildDate><atom:link href="https://sdkim0739.github.io/tags/web_development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AFROTC Detachment 195 Website Redesign</title>
+      <link>https://sdkim0739.github.io/projects/det195-site/</link>
+      <pubDate>Sat, 01 May 2021 22:12:24 -0600</pubDate>
+      
+      <guid>https://sdkim0739.github.io/projects/det195-site/</guid>
+      <description>&amp;hellip;by &amp;ldquo;part of a development team&amp;rdquo;, I mean being one of two cadets who can edit HTML in my detachment. Hehe.
+Anyways!
+Since the website for our detachment is rather outdated and archived, we&amp;rsquo;re dusting it off and hoping to release a fresh website with a new design by fall of 2022.
+So far, the design has been under wraps, so I don&amp;rsquo;t have any images yet! It&amp;rsquo;s going to be a classic HTML5/CSS3 framework, customizing off of an existing template.</description>
+    </item>
+    
+  </channel>
+</rss>
